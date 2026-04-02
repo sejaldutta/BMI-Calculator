@@ -1,0 +1,28 @@
+.container{
+    width: 600px;
+    height:900px;
+    margin: 150px auto;
+    /* text-align: center; */
+}
+button{
+    margin-top: 30px;
+    margin-left: 99px;
+    background-color: rgb(167, 166, 166);
+    padding: 1px 20px;
+    border: 2px solid black;
+    font-size: 25px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+#ht,#wt{
+    margin-top: 30px;
+}
+#guide{
+  margin: 16px 1px;
+}
+#result {
+  font-size: 20px;
+  margin-left: 90px;
+  margin-top: 20px;
+  color: red;
+}
